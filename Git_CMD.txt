@@ -4,4 +4,9 @@ git clone <Project URL>
 
 git status
 
-git add 
+git add <files to add>
+
+git commit -m "updating project"
+
+git push
+
