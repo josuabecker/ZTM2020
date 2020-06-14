@@ -10,3 +10,11 @@ git commit -m "updating project"
 
 git push
 
+git pull
+
+git branch
+
+git branch littlefeature
+
+git switch littlefeature
+
