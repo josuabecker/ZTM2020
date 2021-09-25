@@ -1,4 +1,4 @@
-
+git init
 
 git clone <Project URL>
 
@@ -20,4 +20,12 @@ git switch littlefeature
 
 git checkout littlefeature
 
+git checkout . back
+
 git merge master
+
+git reset HEAD <files to reset >(staging)
+
+git log --online
+
+git revert 
